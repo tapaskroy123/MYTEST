@@ -12,6 +12,7 @@
 		2C57D8402092BA6100459605 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C57D83E2092BA6100459605 /* Main.storyboard */; };
 		2C57D8422092BA6100459605 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C57D8412092BA6100459605 /* Assets.xcassets */; };
 		2C57D8452092BA6100459605 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C57D8432092BA6100459605 /* LaunchScreen.storyboard */; };
+		2C57D84D2092BDC300459605 /* ViewControllerGeoFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C57D84C2092BDC300459605 /* ViewControllerGeoFeature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2C57D8412092BA6100459605 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C57D8442092BA6100459605 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C57D8462092BA6100459605 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C57D84C2092BDC300459605 /* ViewControllerGeoFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerGeoFeature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2C57D83A2092BA6100459605 /* AppDelegate.swift */,
 				2C57D83C2092BA6100459605 /* ViewController.swift */,
+				2C57D84C2092BDC300459605 /* ViewControllerGeoFeature.swift */,
 				2C57D83E2092BA6100459605 /* Main.storyboard */,
 				2C57D8412092BA6100459605 /* Assets.xcassets */,
 				2C57D8432092BA6100459605 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				2C57D83D2092BA6100459605 /* ViewController.swift in Sources */,
 				2C57D83B2092BA6100459605 /* AppDelegate.swift in Sources */,
+				2C57D84D2092BDC300459605 /* ViewControllerGeoFeature.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
